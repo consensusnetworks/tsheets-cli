@@ -3,6 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "author": "Consensus Networks",
+  "description": "A CLI tool for clocking in and out of TSheets, made using the public TSheets API https://tsheetsteam.github.io/api_docs/?javascript--node#introduction",
   "license": "MIT",
   "keywords": [],
   "main": "index.js",
