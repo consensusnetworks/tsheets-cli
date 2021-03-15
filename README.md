@@ -10,6 +10,7 @@ A CLI tool for clocking in and out of TSheets, made using the public TSheets API
 1. Set up refresh tokens https://tsheetsteam.github.io/api_docs/?javascript--node#refreshing-an-access-token
 2. Verify app with TSheets team https://tsheetsteam.github.io/api_docs/?javascript--node#connection-count-information
 3. Add user installation, setup and usage guide to README.md
-4. Clean up Oauth2 server/flow
-5. Add unit tests
-6. Add command flags to optionally bypass menu
+4. Create public npm package and set up version control
+5. Clean up Oauth2 server/flow
+6. Add unit tests
+7. Add command flags to optionally bypass menu
