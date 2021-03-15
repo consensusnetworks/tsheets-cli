@@ -12,6 +12,7 @@ A CLI tool for clocking in and out of TSheets using the public API released by t
 3. Add user installation, setup and usage guide to README.md
 4. Create public npm package and set up version control
 5. Add unit tests
-6. Clean up Oauth2 server/flow (nice to have)
-7. Add command flags to optionally bypass menu (nice to have)
-8. Add Typescript https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html (nice to have)
+6. Remove async from sync functions (nice to have)
+7. Clean up Oauth2 server/flow (nice to have)
+8. Add command flags to optionally bypass menu (nice to have)
+9. Add Typescript https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html (nice to have)
