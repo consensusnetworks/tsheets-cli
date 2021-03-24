@@ -7,12 +7,11 @@ A CLI tool for clocking in and out of TSheets using the public API released by t
 3. Run `tsheets` to configure and use the CLI
 
 ### Todo before v1
-1. Set up refresh tokens https://tsheetsteam.github.io/api_docs/?javascript--node#refreshing-an-access-token
-2. Verify app with TSheets team https://tsheetsteam.github.io/api_docs/?javascript--node#connection-count-information
-3. Add user installation, setup and usage guide to README.md
-4. Create public npm package and set up version control
-5. Add unit tests
-6. Remove async from sync functions (nice to have)
-7. Clean up Oauth2 server/flow (nice to have)
-8. Add command flags to optionally bypass menu (nice to have)
-9. Add Typescript https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html (nice to have)
+1. Add user installation, setup and usage guide to README.md
+2. Create public npm package and set up version control
+3. Add unit tests
+
+### Todo anytime (nice to have)
+1. Clean up Oauth2 server/flow
+2. Add command flags to optionally bypass menu
+3. Add Typescript https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html
