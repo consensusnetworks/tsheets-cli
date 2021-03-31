@@ -7,10 +7,11 @@ A CLI tool for clocking in and out of TSheets that uses the public API released 
 
 Note: You'll need to sign into TSheets online before signing in with the CLI
 
-### Todo before v1
-1. Complete user installation, setup and usage guide
-2. Create public npm package and set up version control
-3. Add unit tests
+### Todo before next version
+1. Complete user install, setup and usage guide
+2. Add development install, setup and contribution guide
+3. Add changelog.md
+4. Add unit tests
 
 ### Todo anytime (nice to have)
 1. Clean up Oauth2 server/flow
