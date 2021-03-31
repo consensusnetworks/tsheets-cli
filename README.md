@@ -1,5 +1,5 @@
-# tsheets
-A CLI tool for clocking in and out of TSheets using the public API released by the TSheets team https://tsheetsteam.github.io/api_docs/?javascript--node#introduction
+# tsheets-cli
+A CLI tool for clocking in and out of TSheets that uses the public API released by the TSheets team https://tsheetsteam.github.io/api_docs/?javascript--node#introduction
 
 ### Setup and usage
 1. Clone this repository locally
