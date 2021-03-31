@@ -3,7 +3,7 @@ A CLI tool for clocking in and out of TSheets that uses the public API released 
 
 ### Setup and usage
 1. Clone this repository locally
-2. Run `npm i` and then `npm link` in the local repository's root
+2. Run `npm i -g` in the local repository's root
 3. Run `tsheets` and enter your TSheets Client ID and Client Secret
 
 Note: You'll need to sign into TSheets online before signing in with the CLI
