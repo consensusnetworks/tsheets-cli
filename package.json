@@ -6,7 +6,7 @@
   "description": "A CLI tool for clocking in and out of TSheets that uses the public TSheets API https://tsheetsteam.github.io/api_docs/?javascript--node#introduction",
   "repository": {
     "type": "git",
-    "url": "https://github.com/consensusnetworks/tsheets"
+    "url": "https://github.com/consensusnetworks/tsheets-cli"
   },
   "license": "MIT",
   "keywords": [],
