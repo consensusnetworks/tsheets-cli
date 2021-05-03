@@ -1,10 +1,13 @@
 {
   "name": "tsheets-cli",
   "type": "module",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "author": "Consensus Networks",
   "description": "A CLI tool for clocking in and out of TSheets that uses the public TSheets API https://tsheetsteam.github.io/api_docs/?javascript--node#introduction",
-  "repository": "https://github.com/consensusnetworks/tsheets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/consensusnetworks/tsheets"
+  },
   "license": "MIT",
   "keywords": [],
   "main": "index.js",
