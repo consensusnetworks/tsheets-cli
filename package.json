@@ -15,7 +15,8 @@
     "tsheets": "./index.js"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "release": "release-it"
   },
   "dependencies": {
     "babel-jest": "^26.6.3",
@@ -31,6 +32,21 @@
   "devDependencies": {
     "@babel/preset-env": "^7.14.0",
     "jest": "^26.6.3",
-    "regenerator-runtime": "^0.13.7"
+    "regenerator-runtime": "^0.13.7",
+    "release-it": "^14.10.0"
+  },
+  "release-it": {
+    "npm": {
+      "publish": false
+    },
+    "github": {
+      "release": true
+    },
+    "git": {
+      "changelog": "npx auto-changelog --stdout --commit-limit false --unreleased --template https://raw.githubusercontent.com/release-it/release-it/master/templates/changelog-compact.hbs"
+    },
+    "hooks": {
+      "after:bump": "npx auto-changelog -p"
+    }
   }
 }
