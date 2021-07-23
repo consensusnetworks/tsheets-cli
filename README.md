@@ -14,10 +14,10 @@ Run `tsheets` and enter your TSheets Client ID and Client Secret. Note: You'll n
 7. Add command flags to optionally bypass menu
 
 ## Contributing
-1. Fork it.
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
+1. Fork it
+2. Create your feature branch (`git checkout -b feature/foo-bar`)
+3. Commit your changes (`git commit -am 'Add some foo-bar'`)
+4. Push to the branch (`git push origin feature/foo-bar`)
 5. Create a new Pull Request
 
 ## License
